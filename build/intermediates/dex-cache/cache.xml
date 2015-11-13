@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/evanbowman/Downloads/BluePencil-master/app/build/intermediates/exploded-aar/BluePencil-master/openCVLibrary2410/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20369189b2e4cd95549a1ccd32eeb07131cc1eb">
+        <dex dex="/Users/evanbowman/Downloads/BluePencil-master/app/build/intermediates/pre-dexed/release/classes-80dc02ed09aafcb6a7513f0251cdb09883cd4bf7.jar" />
+    </item>
+
+</items>
